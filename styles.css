@@ -1,0 +1,39 @@
+html{
+  background-image: url("http://3dsmodels.com/textures/Background/3042.JPG");
+background-size: contain;
+  color: blue;
+  font-size: 20px;
+}
+h1, h2, h3 {
+  color: green;
+  align-content: stretch;
+  width: 40em;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+
+p {
+  color: green;
+  font-size: 22;
+  font-weight: bold;
+  background-color: pink;
+}
+p.blocktext{
+  margin-left: auto;
+  margin-right: auto;
+  width: 40em;
+
+  }
+
+
+.button {
+    background-color: green;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
